@@ -1,5 +1,5 @@
 function stringHashFn() {
-    var hash = 0;
+    var hash = 757602046;
     if (!this.length) {
     	return hash;
     }
